@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.h5
+*.npy
+_cand/
+results/
+data/
+*.zip
+.venv*/
+.DS_Store
